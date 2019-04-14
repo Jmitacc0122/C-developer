@@ -45,5 +45,11 @@
     <Compile Include="BaseConnection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\App.Entidades\App.Entidades.csproj">
+      <Project>{EBADC295-57CA-4360-BE75-94505063B9CF}</Project>
+      <Name>App.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

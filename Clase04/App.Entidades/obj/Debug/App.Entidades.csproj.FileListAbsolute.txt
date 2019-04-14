@@ -3,3 +3,8 @@ C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\bin\Debug\App.Entidades.pd
 C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\obj\Debug\App.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\obj\Debug\App.Entidades.dll
 C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\obj\Debug\App.Entidades.pdb
+C:\Git\Clase 1404\C-developer\Clase04\App.Entidades\bin\Debug\App.Entidades.dll
+C:\Git\Clase 1404\C-developer\Clase04\App.Entidades\bin\Debug\App.Entidades.pdb
+C:\Git\Clase 1404\C-developer\Clase04\App.Entidades\obj\Debug\App.Entidades.csproj.CoreCompileInputs.cache
+C:\Git\Clase 1404\C-developer\Clase04\App.Entidades\obj\Debug\App.Entidades.dll
+C:\Git\Clase 1404\C-developer\Clase04\App.Entidades\obj\Debug\App.Entidades.pdb

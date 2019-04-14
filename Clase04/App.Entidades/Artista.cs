@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace App.Entidades
 {
-    public class Artista
+    public class Artist
     {
         public int ArtisId { get; set; }
         public string Name { get; set; }
