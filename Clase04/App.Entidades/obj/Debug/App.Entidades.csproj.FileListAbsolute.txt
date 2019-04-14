@@ -1,0 +1,5 @@
+C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\bin\Debug\App.Entidades.dll
+C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\bin\Debug\App.Entidades.pdb
+C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\obj\Debug\App.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\obj\Debug\App.Entidades.dll
+C:\Users\EXTENSION\source\repos\Clase04\App.Entidades\obj\Debug\App.Entidades.pdb
